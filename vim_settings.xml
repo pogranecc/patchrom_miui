@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1481516703565">
+      <file name="/Dummy.txt" timestamp="1481510784096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1481505507734">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/1/patchrom_miui/src/frameworks/base/core/res/gen/META-INF/MANIFEST.MF" timestamp="1481510018015" />
       <file name="C:/1/patchrom_miui/src/frameworks/base/core/res/res/values/colors.xml" timestamp="1481510984322">
         <mark key="[" line="23" column="70" />
         <mark key="]" line="23" column="70" />

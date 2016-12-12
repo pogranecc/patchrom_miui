@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1481505775225">
+      <file name="/Dummy.txt" timestamp="1481509146947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1481505507734">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1481505713853">
+      <file name="/fragment.java" timestamp="1481509212277">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -19,7 +19,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>

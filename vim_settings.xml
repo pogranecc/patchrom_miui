@@ -2,7 +2,17 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1481505775225">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1481505507734">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1481505713853">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>

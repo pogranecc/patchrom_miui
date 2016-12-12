@@ -3,9 +3,10 @@
     <library name="gen">
       <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/1/patchrom_miui/src/frameworks/base/core/res/gen" />
-      </SOURCES>
+      <NATIVE>
+        <root url="file://C:/2/patchrom_miui/system/lib" />
+      </NATIVE>
+      <SOURCES />
     </library>
   </component>
 </application>

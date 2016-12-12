@@ -4,6 +4,7 @@
     <option name="localFile" value="false" />
     <option name="enabled" value="false" />
   </component>
+  <component name="BuiltInServerOptions" allowUnsignedRequests="true" />
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>

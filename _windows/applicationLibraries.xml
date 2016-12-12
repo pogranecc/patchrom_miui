@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="gen">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/1/patchrom_miui/src/frameworks/base/core/res/gen" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
